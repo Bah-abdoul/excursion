@@ -1,1 +1,1 @@
-This is an excursion website clone !S
+This is an excursion website clone !
