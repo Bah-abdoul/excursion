@@ -76,7 +76,7 @@
 .footer-content{
     display: flex;
     align-items:flex-start;
-    justify-content:right;
+    justify-content:center;
 }
 
 .copy_right{
